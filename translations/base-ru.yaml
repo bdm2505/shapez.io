@@ -30,6 +30,8 @@ global:
         millions: M
         billions: B
         trillions: T
+        
+        
     infinite: ∞
     time:
         oneSecondAgo: одну секунду назад
